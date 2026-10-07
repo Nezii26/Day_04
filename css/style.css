@@ -15,3 +15,17 @@
 .hero{
     background-color: rgb(255, 115, 183);
 }
+
+.txtAlingment{
+    text-align: justify;
+}
+
+.background{
+    background-color: rgb(92, 255, 105);
+}
+.odd{
+    background-color: rgb(255, 145, 248);
+}
+.even{
+    background-color: rgb(172, 216, 255);
+}
