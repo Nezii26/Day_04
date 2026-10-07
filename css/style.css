@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
- /* h1 {
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
+/*  h1 {
         text-align: center; 
         background-color:black; 
         color: aqua;
@@ -13,7 +13,7 @@
 
     } */
 
-.hero{
+/*.hero{
     background-color: rgb(255, 115, 183);
 }
 
@@ -39,8 +39,45 @@
 }
 
 .helloText{
-    background-color: #FFDBB0;
-    color: #830000;
+    background-color: #003112;
+    color: #0c7919;
     font-family: "Noto Serif", serif;
-}
 
+    padding: 20px;
+    margin: 100px;
+
+    text-align: center;
+
+    border: 5px solid #19fa1d;*/
+
+    .card_img{
+        
+        margin:5px;
+        border-radius: 20px ;
+        
+    }
+
+    .card_title{
+
+        background-color: rgb(253, 255, 118);
+        padding: 20px;
+        border-radius: 20px;
+        font-family: "Noto Serif", serif;
+       
+    }
+
+    .description{
+       
+        
+        color: rgb(0, 134, 244);
+    }
+
+    *{
+        padding: 30px;
+        background-color: rgb(243, 242, 244);
+        margin: 20px ;
+       
+    }
+    .end{
+        color: rgb(58, 6, 107);
+    }
